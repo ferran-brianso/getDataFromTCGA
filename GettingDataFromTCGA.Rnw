@@ -9,6 +9,7 @@
 
 
 \begin{document}
+\SweaveOpts{concordance=TRUE}
 
 \title{Getting Data from TCGA}
 \author{Alex S\'anchez$\sp {1,2}$}
